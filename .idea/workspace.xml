@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c906eb46-93ea-4e9f-acee-96a97bc709fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attendance.php" afterPath="$PROJECT_DIR$/attendance.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attendance_register.php" afterPath="$PROJECT_DIR$/attendance_register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,15 +32,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+              <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <marker date="1508069211593" expanded="true" signature="813:862" ph="SELECT COUNT... attendance" />
                 <marker date="1508069211593" expanded="true" signature="990:1064" ph="SELECT * fro... attendance" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,6 +74,7 @@
         <option value="$PROJECT_DIR$/attendance.php" />
         <option value="$PROJECT_DIR$/attendance_register.php" />
         <option value="$PROJECT_DIR$/list.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -112,20 +122,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Atendre" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Atendre" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attendance" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -134,6 +130,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\Atendre" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -252,17 +253,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508068213480</updated>
-      <workItem from="1508068215078" duration="1034000" />
+      <workItem from="1508068215078" duration="2310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1034000" />
+    <option name="totallyTimeSpent" value="2310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -304,16 +306,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <marker date="1508068490781" expanded="true" signature="860:901" ph="SELECT * FRO... register" />
-            <marker date="1508068490781" expanded="false" signature="1030:1048" ph="..." />
-            <marker date="1508068490781" expanded="false" signature="1094:1112" ph="..." />
-            <marker date="1508068490781" expanded="false" signature="1163:1181" ph="..." />
-            <marker date="1508068490781" expanded="false" signature="1232:1250" ph="..." />
-            <marker date="1508068490781" expanded="false" signature="1300:1318" ph="..." />
-            <marker date="1508068490781" expanded="true" signature="1319:1329" ph="..." />
-            <marker date="1508068490781" expanded="true" signature="1420:1461" ph="SELECT * FRO... attendance" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -321,16 +314,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding>
-            <marker date="1508068490602" expanded="true" signature="909:992" ph="SELECT * FRO... register" />
-            <marker date="1508068490602" expanded="false" signature="1121:1139" ph="..." />
-            <marker date="1508068490602" expanded="false" signature="1185:1203" ph="..." />
-            <marker date="1508068490602" expanded="false" signature="1254:1272" ph="..." />
-            <marker date="1508068490602" expanded="false" signature="1323:1341" ph="..." />
-            <marker date="1508068490602" expanded="false" signature="1391:1409" ph="..." />
-            <marker date="1508068490602" expanded="true" signature="1410:1420" ph="..." />
-            <marker date="1508068490602" expanded="true" signature="1511:1552" ph="SELECT * FRO... attendance" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -338,24 +322,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1522">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1508068490731" expanded="true" signature="755:799" ph="SELECT uid F... register" />
-            <marker date="1508068490731" expanded="true" signature="939:1386" ph="..." />
-            <marker date="1508068490731" expanded="true" signature="971:1371" ph="..." />
-            <marker date="1508068490731" expanded="true" signature="1026:1354" ph="..." />
-            <marker date="1508068490731" expanded="true" signature="1066:1335" ph="..." />
-            <marker date="1508068490731" expanded="true" signature="1526:1622" ph="INSERT INTO attendance_volunter... " />
-            <marker date="1508068490731" expanded="true" signature="1815:2216" ph="..." />
-            <marker date="1508068490731" expanded="true" signature="1851:2197" ph="..." />
-            <marker date="1508068490731" expanded="true" signature="1908:2176" ph="..." />
-            <marker date="1508068490731" expanded="true" signature="1952:2153" ph="..." />
-            <marker date="1508068490731" expanded="false" signature="2007:2029" ph="..." />
-            <marker date="1508068490731" expanded="true" signature="2274:2613" ph="..." />
-            <marker date="1508068490731" expanded="true" signature="2310:2594" ph="..." />
-            <marker date="1508068490731" expanded="true" signature="2367:2573" ph="..." />
-            <marker date="1508068490731" expanded="true" signature="2411:2550" ph="..." />
-            <marker date="1508068490731" expanded="false" signature="2466:2488" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -363,11 +330,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <marker date="1508068490486" expanded="true" signature="481:523" ph="SELECT * FRO... register" />
-            <marker date="1508068490486" expanded="true" signature="1117:1182" ph="SELECT * FRO... attendance" />
-            <marker date="1508068490486" expanded="true" signature="1441:1780" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -375,24 +338,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1734">
           <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding>
-            <marker date="1508068490685" expanded="true" signature="633:688" ph="SELECT uid,u... register" />
-            <marker date="1508068490685" expanded="true" signature="913:1309" ph="..." />
-            <marker date="1508068490685" expanded="true" signature="945:1294" ph="..." />
-            <marker date="1508068490685" expanded="true" signature="1000:1277" ph="..." />
-            <marker date="1508068490685" expanded="true" signature="1040:1258" ph="..." />
-            <marker date="1508068490685" expanded="true" signature="1449:1529" ph="INSERT INTO attendance... " />
-            <marker date="1508068490685" expanded="true" signature="1734:2149" ph="..." />
-            <marker date="1508068490685" expanded="true" signature="1770:2130" ph="..." />
-            <marker date="1508068490685" expanded="true" signature="1827:2109" ph="..." />
-            <marker date="1508068490685" expanded="true" signature="1871:2086" ph="..." />
-            <marker date="1508068490685" expanded="false" signature="1926:1948" ph="..." />
-            <marker date="1508068490685" expanded="true" signature="2213:2599" ph="..." />
-            <marker date="1508068490685" expanded="true" signature="2249:2580" ph="..." />
-            <marker date="1508068490685" expanded="true" signature="2306:2559" ph="..." />
-            <marker date="1508068490685" expanded="true" signature="2350:2536" ph="..." />
-            <marker date="1508068490685" expanded="false" signature="2405:2427" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -400,19 +346,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-561">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1508068490441" expanded="true" signature="783:858" ph="SELECT * fro... attendancecords" />
-            <marker date="1508068490441" expanded="true" signature="1311:1632" ph="..." />
-            <marker date="1508068490441" expanded="true" signature="1347:1613" ph="..." />
-            <marker date="1508068490441" expanded="true" signature="1392:1592" ph="..." />
-            <marker date="1508068490441" expanded="true" signature="1436:1569" ph="..." />
-            <marker date="1508068490441" expanded="false" signature="1491:1513" ph="..." />
-            <marker date="1508068490441" expanded="true" signature="1696:2023" ph="..." />
-            <marker date="1508068490441" expanded="true" signature="1732:2004" ph="..." />
-            <marker date="1508068490441" expanded="true" signature="1777:1983" ph="..." />
-            <marker date="1508068490441" expanded="true" signature="1821:1960" ph="..." />
-            <marker date="1508068490441" expanded="false" signature="1876:1898" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -436,18 +370,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1501088073948" expanded="true" signature="2453:2575" ph="..." />
-            <marker date="1501088073948" expanded="true" signature="2604:2731" ph="..." />
-            <marker date="1501088073948" expanded="true" signature="2760:2881" ph="..." />
-            <marker date="1501088073948" expanded="true" signature="2910:3031" ph="..." />
-            <marker date="1501088073948" expanded="true" signature="3060:3186" ph="..." />
-            <marker date="1501088073948" expanded="true" signature="4460:4582" ph="..." />
-            <marker date="1501088073948" expanded="true" signature="4611:4738" ph="..." />
-            <marker date="1501088073948" expanded="true" signature="4767:4888" ph="..." />
-            <marker date="1501088073948" expanded="true" signature="4917:5038" ph="..." />
-            <marker date="1501088073948" expanded="true" signature="5067:5193" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -490,16 +413,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1508068490547" expanded="true" signature="924:998" ph="SELECT * FRO... register" />
-            <marker date="1508068490547" expanded="false" signature="1127:1145" ph="..." />
-            <marker date="1508068490547" expanded="false" signature="1191:1209" ph="..." />
-            <marker date="1508068490547" expanded="false" signature="1260:1278" ph="..." />
-            <marker date="1508068490547" expanded="false" signature="1329:1347" ph="..." />
-            <marker date="1508068490547" expanded="false" signature="1397:1415" ph="..." />
-            <marker date="1508068490547" expanded="true" signature="1416:1426" ph="..." />
-            <marker date="1508068490547" expanded="true" signature="1517:1558" ph="SELECT * FRO... attendance" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -529,11 +443,19 @@
     <entry file="file://$PROJECT_DIR$/list.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <marker date="1508069211593" expanded="true" signature="813:862" ph="SELECT COUNT... attendance" />
             <marker date="1508069211593" expanded="true" signature="990:1064" ph="SELECT * fro... attendance" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
